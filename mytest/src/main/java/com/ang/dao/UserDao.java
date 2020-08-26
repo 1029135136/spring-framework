@@ -10,6 +10,7 @@ import org.springframework.stereotype.Repository;
 public class UserDao {
 	public void pringInfo() {
 		System.out.println("user dao");
+
 	}
 
 }
